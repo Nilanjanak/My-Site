@@ -2,6 +2,7 @@ body{
   background-color: white;
   margin: 0;
   text-align: center;
+  font-family: "Merriweather",sans-serif;
 }
 
 .top_container{
@@ -12,7 +13,7 @@ body{
 
 h1{
   font-size: 100px;
-  font-style: italic;
+  font-family: 'Sacramento',cursive;
   margin-top: 0;
 }
 
@@ -24,6 +25,20 @@ p{
   background-color: red;
   height: 200px;
   width: 200px;
+}
+.profilepic{
+  padding-top: 30px;
+  width: 250px;
+}
+
+.skillspic{
+  padding-top: 30px;
+  width: 250px;
+}
+
+.contactpic{
+  padding-top: 20px;
+  width: 250px;
 }
 
 .bottom_container{
@@ -48,5 +63,5 @@ p{
 
 .land{
   position: relative;
-  top: 230px;
+  top: 220px;
 }
